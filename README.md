@@ -47,5 +47,5 @@ To set up the project locally, follow these steps:
    
 4. Run the Streamlit app:
    ```bash
-   streamlit run smart_ats.py
+   streamlit run app.py
 
